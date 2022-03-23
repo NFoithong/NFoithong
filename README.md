@@ -30,7 +30,7 @@
 - Front end, back end and full stack development,
 
 **Recent Update**:
-- **Setember 2021**: Completed Google UX professional certificate by Coursera. [[Certificate]](https://coursera.org/share/13834e0c8ad3ecb99694418d0a844f5b)
+- **September 2021**: Completed Google UX professional certificate by Coursera. [[Certificate]](https://coursera.org/share/13834e0c8ad3ecb99694418d0a844f5b)
 - **June 2013**: An associate in Graphic design.
 - **October 2010**: Completed Computer Information System cerificate by Tyson Institute.
 - **June 2002**: Graduated Bachelor of science in Agriculture Economics from Bangkok, THAILAND
