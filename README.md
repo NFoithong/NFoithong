@@ -46,6 +46,6 @@
   
 
 <div>
-<img align="left" height="165px" src="https://github-readme-stats.vercel.app/api?username=nfoithong&show_icons=true&theme=calm" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nfoithong&layout=compact&theme=calm" />
+<img align="left" height="165px" src="https://github-readme-stats.vercel.app/api?username=nfoithong&show_icons=true&theme=tokyonight" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nfoithong&layout=compact&theme=tokyonight" />
 </div>
