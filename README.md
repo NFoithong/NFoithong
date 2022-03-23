@@ -43,3 +43,8 @@
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/natthaphon-foithong-a5a70562/)
 
 </p>
+
+<div>
+<img align="left" height="165px" src="https://github-readme-stats.vercel.app/api?username=nfoithong&show_icons=true&theme=calm" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nfoithong&layout=compact&theme=calm" />
+</div>
