@@ -8,6 +8,7 @@
 
 <br>
 <br>
+<div>
 
 ### Languages and Tools:
 
@@ -52,3 +53,5 @@
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/natthaphon-foithong-a5a70562/)
 
 </p>
+  
+  </div>
