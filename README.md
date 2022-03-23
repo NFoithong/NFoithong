@@ -1,5 +1,14 @@
 ### Hi there, I'm [Natthaphon Foithong](https://github.com/NFoithong), goes by 'Natt' or 'O' 👋
 
+
+<div>
+<img align="left" height="165px" src="https://github-readme-stats.vercel.app/api?username=nfoithong&show_icons=true&theme=calm" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nfoithong&layout=compact&theme=calm" />
+</div>
+
+<br>
+<br>
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -43,8 +52,3 @@
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/natthaphon-foithong-a5a70562/)
 
 </p>
-
-<div>
-<img align="left" height="165px" src="https://github-readme-stats.vercel.app/api?username=nfoithong&show_icons=true&theme=calm" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nfoithong&layout=compact&theme=calm" />
-</div>
