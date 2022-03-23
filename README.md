@@ -1,4 +1,4 @@
-### Hi there, I'm [Natthaphon Foithong](https://github.com/NFoithong), goes by 'Natt' or 'O' 👋
+### Hi there, I'm [Natthaphon Foithong](https://github.com/NFoithong), goes by 'Natt' 👋
 
 ### Languages and Tools:
 
