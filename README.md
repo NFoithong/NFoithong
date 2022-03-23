@@ -25,7 +25,7 @@
 - 👨🏽‍💻 Currently growing my skillset in [Full Stack Developer](https://github.com/NFoithong)
 
  **I am open to**:
-- any collobration work,
+- any collaboration work,
 - UXUI design and research
 - Front end, back end and full stack development,
 
