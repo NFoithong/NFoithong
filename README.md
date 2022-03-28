@@ -32,8 +32,8 @@
 **Recent Update**:
 - **May 2022**: Completed Full Stack Web Development certificate by George Washington University Boot Camp.
 - **September 2021**: Completed Google UX professional certificate by Coursera. [[Certificate]](https://coursera.org/share/13834e0c8ad3ecb99694418d0a844f5b)
-- **June 2013**: An associate in Graphic design.
-- **October 2010**: Completed Computer Information System cerificate by Tyson Institute.
+- **June 2013**: An associate in Graphic design from The Art Institute of Washington-Dulles.
+- **October 2010**: Completed Computer Information System cerificate from Tyson Institute.
 - **June 2002**: Graduated Bachelor of science in Agriculture Economics from Bangkok, THAILAND
 
 ## Connect with me:
