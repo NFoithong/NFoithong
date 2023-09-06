@@ -31,7 +31,7 @@
 - Front end, back end and full stack development,
 
 **Recent Update**:
-- **July 2023**: Certificate od completion for AWS/reStart program by Primed Talent.
+- **July 2023**: Certificate od completion for AWS/reStart program by Primed Talent (Amazon Web Services Training and Certification). [[Certificate]](https://www.credly.com/badges/e68b0123-2455-43ec-a2f2-2e955d6cf298/public_url)
 - **May 2022**: Completed Full Stack Web Development certificate by George Washington University Boot Camp.
 - **September 2021**: Completed Google UX professional certificate by Coursera. [[Certificate]](https://coursera.org/share/13834e0c8ad3ecb99694418d0a844f5b)
 - **June 2013**: An associate in Graphic design from The Art Institute of Washington-Dulles.
