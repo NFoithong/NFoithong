@@ -21,7 +21,8 @@
 <br>
 <br>
 
-- 🔭 I’m currently learning on Full Stack Development George Washington University Boot Camp leveraging background in Graphic and UX design to provide unique perspectives on how end-users interact with websites and software platforms. Earned a certificate in Full Stack Web Development from the George Washington University Boot Camp. Innovative problem-solver who is passionate about developing apps with a focus on mobile-first design and development. Strengths in creativity, teamwork, and building projects from ideation to execution.
+- 🔭 Dynamic, experienced, and result-oriented professional with diverse interests and fast learning skills worked in the IT industry. I have experience in Full Stack development of different programming such as JS, PHP, Node.js, Express.js, MERN stack, and more. Earned a certificate in Full Stack Web Development from The George Washington University Coding Boot Camp. Innovative problem-solver who is passionate about developing apps with a focus on mobile-first design and development. Strengths in creativity, teamwork, and building projects from ideation to execution.
+- 🔭 Leveraging background in 10 years of experience in Graphic design and completed Google UX design professional certificate from Coursera. Skilled in user-centric design research, with proficiency in delivering user experiences across desktop, mobile, tablet, and other channels. Specializing in user research, usability testing, information architecture, interaction design, user journeys, interaction flow, wireframes, prototypes, and pain-point problem-solving. I aim to create interfaces that bring users joy and increase brand loyalty.
 - 👨🏽‍💻 Currently growing my skillset in [Full Stack Developer](https://github.com/NFoithong)
 
  **I am open to**:
@@ -30,6 +31,7 @@
 - Front end, back end and full stack development,
 
 **Recent Update**:
+- **July 2023**: Certificate od completion for AWS/reStart program by Primed Talent.
 - **May 2022**: Completed Full Stack Web Development certificate by George Washington University Boot Camp.
 - **September 2021**: Completed Google UX professional certificate by Coursera. [[Certificate]](https://coursera.org/share/13834e0c8ad3ecb99694418d0a844f5b)
 - **June 2013**: An associate in Graphic design from The Art Institute of Washington-Dulles.
