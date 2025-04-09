@@ -21,16 +21,19 @@
 <br>
 <br>
 
-- 🔭 Dynamic, experienced, and result-oriented professional with diverse interests and fast learning skills worked in the IT industry. I have experience in Full Stack development of different programming such as JS, PHP, Node.js, Express.js, MERN stack, and more. Earned a certificate in Full Stack Web Development from The George Washington University Coding Boot Camp. Innovative problem-solver who is passionate about developing apps with a focus on mobile-first design and development. Strengths in creativity, teamwork, and building projects from ideation to execution.
+- 🔭 Dynamic, experienced, and result-oriented Full-Stack Developer and over a decade in graphic design. Currently pursuing a Master of Science in Software Development (MSSD) at Boston University, I bring a versatile skill set that includes Python, JavaScript, PHP, Java, Node.js, Express.js, Database, and the MERN stack. My background in graphic design and UX provides unique insights into user interactions with websites and software platforms. The last few years expanded my expertise with AWS cloud computing, aiming to leverage this knowledge alongside my development skills to solve complex problems and support data-driven decision-making. Committed to growth and collaboration, I thrive in environments that foster innovation and continuous improvement.
 - 🔭 Leveraging background in 10 years of experience in Graphic design and completed Google UX design professional certificate from Coursera. Skilled in user-centric design research, with proficiency in delivering user experiences across desktop, mobile, tablet, and other channels. Specializing in user research, usability testing, information architecture, interaction design, user journeys, interaction flow, wireframes, prototypes, and pain-point problem-solving. I aim to create interfaces that bring users joy and increase brand loyalty.
 - 👨🏽‍💻 Currently growing my skillset in [Full Stack Developer](https://github.com/NFoithong)
 
+
  **I am open to**:
-- any collaboration work,
+- any collaboration work
+- Software Engineer
+- Front end, back end and full stack development
 - UXUI design and research
-- Front end, back end and full stack development,
 
 **Recent Update**:
+- **Fall 2025**: Software Development / MS  Boston University
 - **July 2023**: AWS Cloud Quest: Cloud Practitioner issued by Amazon Web Services Training and Certification. [[Certificate]](https://www.credly.com/badges/b601cfc3-54ed-41b1-b8c8-d3b1f887d318/public_url)
 - **July 2023**: Certificate of completion for AWS/reStart program by Primed Talent (Amazon Web Services Training and Certification). [[Certificate]](https://www.credly.com/badges/e68b0123-2455-43ec-a2f2-2e955d6cf298/public_url)
 - **May 2022**: Completed Full Stack Web Development certificate by George Washington University Boot Camp.
